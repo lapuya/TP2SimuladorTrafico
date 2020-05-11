@@ -12,7 +12,6 @@ import org.json.JSONTokener;
 import simulator.factories.Factory;
 import simulator.model.Event;
 import simulator.model.TrafficSimulator;
-
 public class Controller {
 
 	private TrafficSimulator sim;
